@@ -24,7 +24,7 @@ the classification task.
 
 
 - Name: CIFAR-10 (Canadian Institute for Advanced Research)
-- Dataset Link: (https://www.cs.toronto.edu/~kriz/cifar.html)[https://www.cs.toronto.edu/~kriz/cifar.html]
+- Dataset Link: [https://www.cs.toronto.edu/~kriz/cifar.html]
 - Size: 60,000 images (50,000 training + 10,000 testing)
 - Image format: 32x32 pixels, RGB color
 - Number of classes: 10 (6000 images per class)
